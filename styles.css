@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 body {
     font-family: 'Nunito', sans-serif;
+    margin: 0px;
 }
 
 .navigation {
@@ -27,7 +28,8 @@ body {
     display: relative;
     text-align: center;
     padding: 50px;
-    
+    margin: 0px;
+    box-sizing: border-box;
 }
 
 #profile {
@@ -47,9 +49,11 @@ p {
 h3 {
     font-size: 30px;
     color: purple;
+    padding: 10px 40px;
 }
 
 .embed {
     display: relative;
-    grid-row-gap: 10px;
+    grid-row-gap: 50px;
+    margin: 0px 40px;
 }
