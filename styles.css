@@ -57,3 +57,7 @@ h3 {
     grid-row-gap: 50px;
     margin: 0px 40px;
 }
+
+#location {
+    margin: 0px 0px 0px 40px;
+}
